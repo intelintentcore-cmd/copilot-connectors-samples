@@ -16,14 +16,14 @@
     "@azure/core-client": "^1.7.3",
     "@azure/core-rest-pipeline": "1.14",
     "@azure/data-tables": "13.2.2",
-    "@azure/functions": "^4.0.0",
+    "@azure/functions": "^4.16.5",
     "@azure/identity": "^4.0.1",
     "@azure/storage-queue": "^12.15.0",
     "@microsoft/microsoft-graph-client": "^3.0.7",
     "jsonwebtoken": "^9.0.2",
     "jwks-rsa": "^3.1.0",
     "proxy-agent": "^6.4.0",
-    "undici": "^6.9.0"
+    "undici": "^6.29.0"
   },
   "devDependencies": {
     "@microsoft/microsoft-graph-types": "^2.38.0",
